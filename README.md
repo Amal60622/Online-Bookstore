@@ -1,4 +1,3 @@
-# Online-Bookstore
 # Online Bookstore ISBN Search Using Binary Search Tree
 
 ## Data Structures and Algorithms Assignment
